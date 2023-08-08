@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Robledo</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🔭 I’m currently working at [Escuela Didáctica](https://www.escueladidactica.com)
+
+- 🌱 I’m currently learning **Rust and React Native**
 
 - 📫 How to reach me **miguel.robledo0509@gmail.com**
 
