@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Escuela Didáctica](https://www.escueladidactica.com)
 
-- 🌱 I’m currently learning **Rust (Tauri, Leptos), React Native and Godot**
+- 🌱 I’m currently learning **Rust (Tauri, Leptos), React Native and Godot**.
 
 - 📫 How to reach me **miguel.robledo0509@gmail.com**
 
